@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MAKE A GOOD READ ME
 
 ### WHO
@@ -19,9 +18,6 @@ Everyone who is developing
 * Created in [PHP Storms](https://www.jetbrains.com/phpstorm/)
 * Inspired by [Beardificent](https://github.com/Beardificent/ReadMe)
 * Credits [GitHub](https://github.com/becodeorg/atw-giertz-3-23/blob/master/1.The-Field/3.Markdown/README.md)
-    * Additional Reading
-=======
-# Making a readme
-
-
->>>>>>> afcbc4cd409f90eb70778a809641fc7aa75c5c23
+    * See "Additional Reading: Writing a Good README"
+    
+> End
