@@ -1,4 +1,21 @@
-# hello-world
+# MAKE A GOOD READ ME
 
-my first repository created hoorayyyyy!
-let's try something and see if I can pull these changes in my terminal
+### WHO
+Everyone who is developing
+
+### WHEN
+* you start a project
+* you publish the project
+* you share the project 
+
+### HOW
+* A computer with good WIFI connection
+* Download PHP Storm and add plugin Markdown
+* Your Local Terminal - In Ubuntu CTRL+ALT+T 
+* Upload via [GitHub](https://github.com/Tessakam)
+
+##### SOURCE
+* Created in [PHP Storms](https://www.jetbrains.com/phpstorm/)
+* Inspired by [Beardificent](https://github.com/Beardificent/ReadMe)
+* Credits [GitHub](https://github.com/becodeorg/atw-giertz-3-23/blob/master/1.The-Field/3.Markdown/README.md)
+    * Additional Reading
